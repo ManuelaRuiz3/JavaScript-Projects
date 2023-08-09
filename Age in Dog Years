@@ -14,3 +14,9 @@ let myAgeInDogYears = earlyYears + laterYears;
 let myName = "Manuela".toLowerCase();
 
 console.log(`My name is ${myName}. I am ${myAgeInDogYears} years old in dog years.`);
+
+
+Answers
+21
+88
+My name is manuela. I am 109 years old in dog years.
